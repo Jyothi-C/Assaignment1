@@ -1,0 +1,13 @@
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\bin\Debug\netcoreapp3.1\Assaignment_Asset.exe
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\bin\Debug\netcoreapp3.1\Assaignment_Asset.deps.json
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\bin\Debug\netcoreapp3.1\Assaignment_Asset.runtimeconfig.json
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\bin\Debug\netcoreapp3.1\Assaignment_Asset.runtimeconfig.dev.json
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\bin\Debug\netcoreapp3.1\Assaignment_Asset.dll
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\bin\Debug\netcoreapp3.1\Assaignment_Asset.pdb
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\obj\Debug\netcoreapp3.1\Assaignment_Asset.csprojAssemblyReference.cache
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\obj\Debug\netcoreapp3.1\Assaignment_Asset.AssemblyInfoInputs.cache
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\obj\Debug\netcoreapp3.1\Assaignment_Asset.AssemblyInfo.cs
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\obj\Debug\netcoreapp3.1\Assaignment_Asset.csproj.CoreCompileInputs.cache
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\obj\Debug\netcoreapp3.1\Assaignment_Asset.dll
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\obj\Debug\netcoreapp3.1\Assaignment_Asset.pdb
+C:\Users\chowdam.n.jyothi\Desktop\Assaignment_Asset\obj\Debug\netcoreapp3.1\Assaignment_Asset.genruntimeconfig.cache
